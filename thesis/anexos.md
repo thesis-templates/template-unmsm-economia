@@ -3,6 +3,9 @@
 ## Anexos
 
 #### Anexo A. Figuras
+\
+
+\centering
 
 ![](./format/crest.png)
 
@@ -15,6 +18,7 @@ Fuente: @apa2022
 \newpage
 
 #### Anexo B. Tabla con estilo
+\
 
 \newtable{t:id}{Números en tabla}
 
@@ -31,5 +35,6 @@ Fuente: Autora
 \newpage
 
 #### Anexo C. Tabla de datos
+\
 
 \tsv{./data/tsv/table}
