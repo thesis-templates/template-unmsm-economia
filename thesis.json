@@ -1,9 +1,9 @@
 {
-  "annus": 2024,
-  "patria": "per",
-  "lingua": "spa",
-  "universitas": "unmsm.edu.pe",
-  "facultas": "economia.unmsm.edu.pe",
-  "repositorium": "sisbib.unmsm.edu.pe",
-  "descriptio": "Facultad de Ciencias Económicas / Universidad Nacional Mayor de San Marcos / Perú"
+  "year": 2024,
+  "description": "Facultad de Ciencias Económicas / Universidad Nacional Mayor de San Marcos / Perú",
+  "iso_country": "per",
+  "iso_language": "spa",
+  "url_university": "https://unmsm.edu.pe/",
+  "url_school": "https://economia.unmsm.edu.pe/",
+  "url_repository": "https://sisbib.unmsm.edu.pe/"
 }
